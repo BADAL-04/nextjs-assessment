@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Anjali Singh",
+    "category": "Singer",
+    "location": "Mumbai",
+    "price": "₹5000 - ₹10000"
+  },
+  {
+    "id": 2,
+    "name": "Dance Fusion Group",
+    "category": "Dancer",
+    "location": "Delhi",
+    "price": "₹8000 - ₹15000"
+  },
+  {
+    "id": 3,
+    "name": "Rahul Sharma",
+    "category": "Musician",
+    "location": "Bangalore",
+    "price": "₹7000 - ₹12000"
+  },
+  {
+    "id": 4,
+    "name": "Priya Kapoor",
+    "category": "Singer",
+    "location": "Kolkata",
+    "price": "₹6000 - ₹11000"
+  },
+  {
+    "id": 5,
+    "name": "The Artisans",
+    "category": "Djs",
+    "location": "Chennai",
+    "price": "₹4000 - ₹9000"
+  },
+  {
+    "id": 6,
+    "name": "Rohan Mehra",
+    "category": "Musician",
+    "location": "Hyderabad",
+    "price": "₹5000 - ₹10000"
+  }
+]
