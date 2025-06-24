@@ -1,9 +1,11 @@
-import artists from '@/data/artists.json';
+import data from "../data/artists.json";
 
 export default function DashboardPage() {
   return (
     <div className="p-4">
-      <h1 className="text-2xl font-bold mb-4 text-blue-600">Manager Dashboard</h1>
+      <h1 className="text-2xl font-bold mb-4 text-blue-600">
+        Manager Dashboard
+      </h1>
       <table className="w-full border-collapse border">
         <thead>
           <tr className="bg-gray-200 text-left">
